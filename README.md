@@ -1,4 +1,5 @@
-SYSC4001 Assignment 3 README File
+Completely Fair Scheduling Linux
+README File
 ---------------------------------------
 
 Prerequisites
