@@ -4,7 +4,7 @@ README File
 
 Prerequisites
 ---------------------------------------
-Have Ubuntu or another virtual machine to run linux on
+Have Ubuntu or another virtual machine to run Linux on
 
 Downloads/Installations
 ---------------------------------------
